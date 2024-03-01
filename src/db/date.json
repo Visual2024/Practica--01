@@ -1,0 +1,11 @@
+[
+    {
+        "id":1,
+        "nombre":"Carne de Cuadril",
+        "Categoria": {
+            "marca": "Campo Cañuelas",
+            "" : ""
+        },
+        "precio":""
+    }
+]
